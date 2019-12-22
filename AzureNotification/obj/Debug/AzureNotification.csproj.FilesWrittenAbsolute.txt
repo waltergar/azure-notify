@@ -1,0 +1,10 @@
+/Volumes/MAC-DATA/Develop/Xamarin/AzureNotification/AzureNotification/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile111.AssemblyAttribute.cs
+/Volumes/MAC-DATA/Develop/Xamarin/AzureNotification/AzureNotification/bin/Debug/AzureNotification.pdb
+/Volumes/MAC-DATA/Develop/Xamarin/AzureNotification/AzureNotification/bin/Debug/AzureNotification.dll
+/Volumes/MAC-DATA/Develop/Xamarin/AzureNotification/AzureNotification/obj/Debug/AzureNotification.dll
+/Volumes/MAC-DATA/Develop/Xamarin/AzureNotification/AzureNotification/obj/Debug/AzureNotification.pdb
+/Volumes/mac1/Develop/Xamarin/AzureNotification/AzureNotification/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile111.AssemblyAttribute.cs
+/Volumes/mac1/Develop/Xamarin/AzureNotification/AzureNotification/bin/Debug/AzureNotification.pdb
+/Volumes/mac1/Develop/Xamarin/AzureNotification/AzureNotification/bin/Debug/AzureNotification.dll
+/Volumes/mac1/Develop/Xamarin/AzureNotification/AzureNotification/obj/Debug/AzureNotification.dll
+/Volumes/mac1/Develop/Xamarin/AzureNotification/AzureNotification/obj/Debug/AzureNotification.pdb

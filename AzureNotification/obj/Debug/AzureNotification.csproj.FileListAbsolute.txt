@@ -1,0 +1,5 @@
+/Volumes/MAC-DATA/Develop/Xamarin/AzureNotification/AzureNotification/bin/Debug/AzureNotification.dll
+/Volumes/MAC-DATA/Develop/Xamarin/AzureNotification/AzureNotification/bin/Debug/AzureNotification.pdb
+/Volumes/MAC-DATA/Develop/Xamarin/AzureNotification/AzureNotification/obj/Debug/AzureNotification.csprojAssemblyReference.cache
+/Volumes/MAC-DATA/Develop/Xamarin/AzureNotification/AzureNotification/obj/Debug/AzureNotification.dll
+/Volumes/MAC-DATA/Develop/Xamarin/AzureNotification/AzureNotification/obj/Debug/AzureNotification.pdb

@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{0D98E8E7-B6B7-4014-AC00-01DEDD34D6C0}|Default">
+  <MonoDevelop.Ide.ItemProperties.AzureNotification.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.F882C09B-7460-4637-9A37-D706D3209ACE" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/ViewController.cs">
+    <Files>
+      <File FileName="iOS/Main.cs" Line="21" Column="1" />
+      <File FileName="AzureNotification/MyClass.cs" />
+      <File FileName="iOS/ViewController.cs" Line="41" Column="45" />
+      <File FileName="iOS/ViewController.designer.cs" />
+      <File FileName="iOS/Main.storyboard" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AzureNotification" expanded="True">
+            <Node name="AzureNotification.iOS" expanded="True">
+              <Node name="ViewController.cs" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
